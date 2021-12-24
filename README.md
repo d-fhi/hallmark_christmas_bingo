@@ -1,1 +1,1 @@
-# Generate an arbitrarily large number of unique Hallmark Christmas movie bingo cards with R
+# Generate 3.9986 Tredecillion unique Hallmark Christmas movie bingo cards with R
